@@ -1,0 +1,1 @@
+window.post={"title":"10月1日","date":"2010-09-27 20:36:52","cate":"","tags":[],"imgs":{},"link":"https://blog.sina.com.cn/s/blog_6cb9fb610100lx2w.html","content":"<p>&nbsp;&nbsp;&nbsp;<font style=\"FonT-siZe: 20px\"><strong>今天是星期一&nbsp;，祖国妈妈的生日10月1日快到了！我们的修文小学为了迎接10月1日，我们的升旗仪式都讲了10月1日去干什麽，但是得看考月考好不好哟！所以我得好好准备月考啊！</strong></font></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"}

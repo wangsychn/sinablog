@@ -1,0 +1,1 @@
+window.post={"title":"电视剧害死了我妈妈！！","date":"2013-07-24 20:29:18","cate":"","tags":[],"imgs":{},"link":"https://blog.sina.com.cn/s/blog_6cb9fb610101od06.html","content":"<p>电视剧害死了我妈妈！！</p>\n<p>&nbsp;&nbsp;&nbsp;这几天，我发现妈妈看一个叫《陆贞传奇》和其他几部电视剧很上瘾，就为了那破电视剧，我爸和我妈还吵了架连我学习都不管了！</p>\n<p>谁来帮帮我啊！！！！！</p>"}

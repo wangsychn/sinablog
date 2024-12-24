@@ -1,0 +1,1 @@
+window.post={"title":"让你快乐成长！！","date":"2010-10-13 09:45:14","cate":"","tags":[],"imgs":{},"link":"https://blog.sina.com.cn/s/blog_6cb9fb610100meoy.html","content":"<p><font style=\"FonT-siZe: 24px\">最近，舒扬出现的小毛病比较多，我知道，他在慢慢的习惯，慢慢的改，别看他脸上笑嘻嘻，大大咧咧，实际上他心里有烦恼，孩子，我会做你的朋友，始终支持你！相信你！</font></p>"}

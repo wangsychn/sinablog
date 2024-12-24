@@ -1,0 +1,1 @@
+window.post={"title":"shuyanggoodboy","date":"2013-10-09 20:22:03","cate":"","tags":[],"imgs":{},"link":"https://blog.sina.com.cn/s/blog_6cb9fb610101q3ee.html","content":"<div style=\"TexT-inDenT: 2em\"><font style=\"FonT-siZe: 24px\">My\nfather and I ran to the park at yesterday.It's big and very old.we\nwent by bus to ZiChan.Then we sang.</font></div>"}
